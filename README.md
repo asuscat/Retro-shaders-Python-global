@@ -13,7 +13,3 @@ QUESTIONS:
 Will this support Linux or MacOS?
 
 No, its exclusively windows software
-
-CREDITS: https://github.com/artzox/BFI-Presenter
-
-Yes this is GPL!
